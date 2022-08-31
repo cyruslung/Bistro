@@ -1,0 +1,76 @@
+{
+  "name": "my-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@react-google-maps/api": "^1.13.0",
+    "animate.css": "^3.7.2",
+    "aos": "^2.3.4",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "chosen-js": "^1.8.7",
+    "html-react-parser": "^0.10.5",
+    "jquery": "^3.6.0",
+    "jquery-react": "^1.0.0",
+    "json-server": "^0.17.0",
+    "markdown": "^0.5.0",
+    "markdown-to-jsx": "^6.11.4",
+    "node-sass": "^4.14.1",
+    "rc-pagination": "^1.21.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.5",
+    "react-date-picker": "^7.10.0",
+    "react-datepicker": "^2.16.0",
+    "react-dom": "^16.14.0",
+    "react-facebook": "^8.1.4",
+    "react-google-recaptcha": "^2.1.0",
+    "react-html-email": "^3.0.0",
+    "react-id-swiper": "^2.4.0",
+    "react-image-lightbox": "^5.1.4",
+    "react-paginate": "^6.5.0",
+    "react-player": "^1.15.3",
+    "react-prism": "^4.3.2",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "3.2.0",
+    "react-scroll-up-button": "^1.6.4",
+    "react-share": "^3.0.1",
+    "react-slick": "^0.25.2",
+    "react-soundplayer": "^1.0.5",
+    "react-sticky": "^6.0.3",
+    "reactstrap": "^8.10.1",
+    "redux": "^4.2.0",
+    "rodal": "^1.8.3",
+    "semantic-ui-react": "^0.88.2",
+    "sweetalert2": "^8.19.0",
+    "sweetalert2-react-content": "^1.1.0",
+    "swiper": "^5.4.5",
+    "video-react": "^0.14.1"
+  },
+  "scripts": {
+    "start": "set port=8000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "fslightbox-react": "^1.6.2"
+  }
+}
