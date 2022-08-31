@@ -1,15 +1,15 @@
 # Bistro Project
 
-> ![enter image description here](https://images.plurk.com/UVluLISyQrl2nX0lUtScY.png)
-> *Bistro為結合「食」、「育」、「樂」的線上酒品媒合平台。除了販售各國酒種、專業酒具與本國相關活動票券，也提供各式餐酒館和酒吧的預約服務，並以知識型部落格提供酒類專業文章，不論新手或老饕，都能在此找到最適合自己口味與需求的酒種和餐廳，期望藉以拉近大眾的距離，達成初衷「Believe That Control Your Life」，將品酩自然地融入日常生活。*
+![enter image description here](https://images.plurk.com/UVluLISyQrl2nX0lUtScY.png)
+*Bistro為結合「食」、「育」、「樂」的線上酒品媒合平台。除了販售各國酒種、專業酒具與本國相關活動票券，也提供各式餐酒館和酒吧的預約服務，並以知識型部落格提供酒類專業文章，不論新手或老饕，都能在此找到最適合自己口味與需求的酒種和餐廳，期望藉以拉近大眾的距離，達成初衷「Believe That Control Your Life」，將品酩自然地融入日常生活。*
 
 ## Youtube
 
-> [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/45EAjoFliCM/0.jpg)](https://youtu.be/45EAjoFliCM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/45EAjoFliCM/0.jpg)](https://youtu.be/45EAjoFliCM)
 
 ## Skills
 
-> <img src="https://images.plurk.com/3u7ZtOljihaPMOh3se9Tjs.png" width="500">
+<img src="https://images.plurk.com/3u7ZtOljihaPMOh3se9Tjs.png" width="500">
 
 ## Guide
 
