@@ -33,21 +33,21 @@
 
 ## How To Start
 
-> 1.npm i (node v14.20.0 / npm v6.14.17)
-> 2.npm run dev
-> 3.npm run watch  // 這個指令能將每次 react 檔案存檔後自動編譯
-> 4.npm update
-> 5.npm audit fix
+- 1.npm i (node v14.20.0 / npm v6.14.17)
+- 2.npm run dev
+- 3.npm run watch  // 這個指令能將每次 react 檔案存檔後自動編譯
+- 4.npm update
+- 5.npm audit fix
 
-> **Bistro-react** -> npm strat  React架構下的主網站
+**Bistro-react** -> npm strat  React架構下的主網站
 
-> **Guests**  -> npm start  React架構迎賓頁（年齡確認）
+**Guests**  -> npm start  React架構迎賓頁（年齡確認）
 
-> **node-rest-bitro**
-> 1.npm i @babel/cli @babel/node @babel/preset-env (因babel有新舊版差異)
-> 2.npm install -g create-react-app (需使用CRA建立的專案架構)
-> 3.npm start   使用node.js API 連線MySQL資料庫
-> 4.cd blog_php   php -S localhost:7777 開啟網站部落格後台資料庫連線
->   (進階系統設定->編輯環境變數->Path指定npm目錄，通常是 C:\Users\username\AppData\Roaming\npm)
+**node-rest-bistro**
+- 1.npm i @babel/cli @babel/node @babel/preset-env (因babel有新舊版差異)
+- 2.npm install -g create-react-app (需使用CRA建立的專案架構)
+- 3.npm start   使用node.js API 連線MySQL資料庫
+- 4.cd blog_php   php -S localhost:7777 開啟網站部落格後台資料庫連線
+  (進階系統設定->編輯環境變數->Path指定npm目錄，通常是 C:\Users\username\AppData\Roaming\npm)
 
-> **xampp** 安裝並開啟 apache(Config - Listen改3000) / MYSQL
+**xampp** 安裝並開啟 apache(Config - Listen改3000) / MYSQL
